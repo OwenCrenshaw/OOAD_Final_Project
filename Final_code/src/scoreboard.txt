@@ -1,0 +1,12 @@
+This will hold the scoreboard names below:
+
+1st: Owen
+2nd: John
+3rd: Kathy
+4th: Emily
+.
+.
+.
+
+
+// singleton and factory will be in here
